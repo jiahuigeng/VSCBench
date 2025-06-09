@@ -1,0 +1,10 @@
+api_resource.py
+vscbench_image_centric_images/
+vscbench_text_centric_images/
+dataset_upload_image_centric.py
+vscbench.zip
+moose_image_centric_images/
+moose_text_centric_images/
+~$*.xlsx
+~$*.xls
+__pycache__/
